@@ -1,0 +1,1 @@
+# VESM2VT_Lokaverkefni_V20
