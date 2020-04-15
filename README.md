@@ -16,12 +16,23 @@
 
 ## Lýsing
 Bíllinn og fjarstýringin tala saman með I2C staðlinum.
+
 ### Bíllinn
 Bíllin notar aðra Arduino tölvuna til að stjórna móturunum. DC mótorarnir eru fyrir afturdekkin og keyra bílinn áfram eða aftur á bak. Nota skal H-Bridge með DC móturunum. Servo mótorarnir sjá um að stýra stefunni á framdekkjunum. Hvað mótorarnir eiga að gera kemur frá fjarstýringunni. Ultrasonic skynjarinn er svo framan á bílnum og hefur það hlutverk stoppa DC mótorana ef bíllinn er innan við 50cm frá einhverju, þessa mælingu þar svo að senda til fjarstýringarinnar.
+
 ### Fjarstýringin
 Hin Arduino tölvan er notuð sem fjarstýring. Við hana þarf að tengja 4 takka (hægri/vinstri/áfram/bakka). Fjarstýringin er líka með LCD skjá en á honum á að birta fjarlægðina sem er mæld með Ultrasonic skynjaranum á bílnum.
+
+### Hönnun 
+Notaðu TinkerCad og/eða Inkscape til að hanna og útfæra umgjörð fyrir fjarstýringuna og bílinn (e. body). Frjáls útfærsla.
+
 ## Verkefnaskil
 Haltu utan um verkefnið á github, þar á að vera:
 - Dagbók, hvað gerðir þú og hvenær.
 - Kóðinn af báðum Arduino tölvunum.
 - Hlekkur á Tinkercad teikninguna af rásunum (Muna að gera teikninguna Public).
+- [Skjáupptaka](https://screencast-o-matic.com) af virkni í Tinkercad.
+- Hönnunarteikningar af bíl og fjarstýringu.
+
+## Námsmat
+TODO:
