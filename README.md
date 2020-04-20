@@ -36,18 +36,26 @@ Haltu utan um verkefnið á github, þar á að vera:
 ## Námsmat
 1. Uppsetning í Tinkercad (Circuits) (20%)
     - 0% Uppsetning stórlega gölluð (t.d. vantar einhverja íhluti) eða hana vantar.
-    - 10% Uppsetningin virkar en er ósnyrtileg og erfitt að átta sig á hvað tengist hverju.
+    - 10% Uppsetningin virkar en er ósnyrtileg og erfitt að átta sig á hvað tengist hverju. Mikilvæga hluti vantar í uppsetninguna.
     - 20% Uppsetningin er snyrtileg og skýr til aflestrar. Notaðir eru mismunandi litir á víra og skynsamleg notkun á beygjum á þeim.
 
 2. Kóði og virkni (50%)
-   - 0% Vantar eða stórlega gallað.
-   - 10% Hægt er að stjórna mótorunum frá bílnum.
-   - 20% Fjarlægðarmæling send frá bíl til fjarstýringar og birt á LCD.
-   - 30% Hægt er að stjórna mótorunum frá fjarstýringunni.
-   - 40% Allt virkar en kóði illa settur upp og ruglingslegur.
-   - 50% Allt virkar og kóði snyrtilega settur upp með góðum breytunöfnum.
+   
+   Gefið er í heilu og hálfu fyrir hvern lið.
+   1. Bíll (30%)
+      - Bíllinn getur beygt til hægri og vinstri (5%).
+      - Skynjari sendir fjarlægðarupplýsingar (5%).
+      - Hægt að keyra bíl áfram og afturábak (10%).
+      - DC Mótorar hægja á sér áður en þeir skipta um átt (10%).
+   
+   2. Fjarstýring og samskipti (20%)
+      - LCD sýnir fjarlægðarmælinguna frá bílnum (5%).
+      - Hægt er að stjórna hraða og átt (áfram/bakka) með fjarstýringu (7%).
+      - Hægt er að beygja (vinstri/hægri) bílnum með fjarstýringu (8%).
 
-3. 3D hönnun (casing) (30%)
-   - 0% Vantar eða stórlega gölluð.
-   - 15% Góð hönnun fyrir fjarstýringu og bíl en byggð er á verki annars.
-   - 30% Góð hönnun fyrir fjarstýringu og bíl gerð frá grunni.
+3. 3D hönnun  (30%)
+   -  0% Vantar eða stórlega gölluð.
+   - 10% Hönnun er stórlega ábótavant, tvö eða fleiri atriði má útfæra betur.
+   - 20% Hönnun er uppfyllt að mestu leyti.
+   - 30% Hönnun er góð, lögun umgjarðar fellur vel að fjarstýringu og bíl, allir íhlutir og skynjarar falla vel að hönnun og eru tengdir, rými fyrir Íhluti og skynjara er ekki of rúmt og það eru ekki göp, tengingar og samsetning er framkvæmanleg útfrá hönnun.
+
